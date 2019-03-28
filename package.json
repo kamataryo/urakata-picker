@@ -1,0 +1,10 @@
+{
+  "name": "@kamataryo/urakata-picker",
+  "version": "0.0.0",
+  "main": "src/index.js",
+  "repository": "git@github.com:kamataryo/urakata-picker.git",
+  "author": "kamataryo <mugil.cephalus+ciconia.local@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {}
+}
